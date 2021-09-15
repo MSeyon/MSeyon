@@ -1,5 +1,3 @@
-#include<stdio.h>
-int main()
-{
-printf("HEloo");
-}
+printf("My name is Seyon");
+printf("I am an MIS student");
+
